@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Application Details
 |               |
 | ------------- |
@@ -39,3 +40,7 @@ App para gerenciar ordens de venda
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
+=======
+# sap-ordem-venda-frontend
+Frontend SAPUI5/Fiori para gerenciamento de Ordens de Venda, integrado a um serviço OData desenvolvido em ABAP/SAP Gateway.
+>>>>>>> 68146f90c6763744861382d388438b84a22201d5
