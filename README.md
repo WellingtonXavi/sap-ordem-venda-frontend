@@ -1,3 +1,9 @@
+![SAPUI5](https://img.shields.io/badge/SAPUI5-1.108%2B-0A6ED1?logo=sap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black)
+![UI5 Tooling](https://img.shields.io/badge/UI5%20Tooling-v3-blue?logo=sap&logoColor=white)
+![OData V2](https://img.shields.io/badge/OData-V2-008000)
+![Protocol](https://img.shields.io/badge/Architecture-MVC-purple)
+
 # SAP Ordem de Venda — Frontend
 
 Aplicação frontend desenvolvida em **SAPUI5 Freestyle**, responsável pela gestão de Ordens de Venda e integrada ao backend através de um serviço **OData V2 desenvolvido em SAP Gateway**.
